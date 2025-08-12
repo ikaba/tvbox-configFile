@@ -12,9 +12,9 @@
     {"key": "1080资源","name": "1080资源","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://api.1080zyku.com"},
     {"key": "香奶儿资源","name": "AV-香奶儿资源","type": 1,"api": "https://www.gdlsp.com/api/json.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gdlsp.com"},
     {"key": "AV-辣椒资源","name": "AV-辣椒资源","type": 1,"api": "https://apilj.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://apilj.com"},    
-    {"key": "AV-百万资源","name": "AV-百万资源","type": 1,"api": "https://api.bwzyz.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1, "https://api.bwzyz.com"},
+    {"key": "AV-百万资源","name": "AV-百万资源","type": 1,"api": "https://api.bwzyz.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api.bwzyz.com"},
+
     
-{"key": "AV-百万资源","name": "AV-百万资源","type": 1,"api": "https://api.bwzyz.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api.bwzyz.com"},
 {"key": "AV-91麻豆","name": "AV-91麻豆","type": 1,"api": "https://91md.me/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://91md.me"},
 {"key": "AV-AIvin","name": "AV-AIvin","type": 1,"api": "http://lbapiby.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
 {"key": "AV-JKUN资源","name": "AV-JKUN资源","type": 1,"api": "https://jkunzyapi.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jkunzyapi.com"},
