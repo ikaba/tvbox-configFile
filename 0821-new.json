@@ -8,9 +8,9 @@
 "sites":[
     {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
     {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyzGuard","timeout":10,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},    
-    {"key": "TV-1080资源","name": "TV-1080资源","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "AV155","name": "AV-155资源","type": 1,"api": "https://155api.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
-    {"key": "黄AV资源","name": "AV-黄AV资源","type": 1,"api": "https://www.pgxdy.com/api/json.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.pgxdy.com"},
+    {"key": "1080资源","name": "1080资源","type": 1,"api": "https://api.1080zyku.com/inc/api_mac10.php","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://api.1080zyku.com"},
+    {"key": "AV155","name": "AV-155资源","type": 1,"api": "https://155api.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1"ext": "https://155api.com"},
+    {"key": "黄AV资源","name": "AV-黄AV资源","type": 1,"api": "https://www.pgxdy.com/api/json.php","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.pgxdy.com"},
     {"key": "鲨鱼资源","name": "AV-鲨鱼资源","type": 1,"api": "https://shayuapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shayuapi.com"},
     {"key": "香奶儿资源","name": "AV-香奶儿资源","type": 1,"api": "https://www.gdlsp.com/api/json.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gdlsp.com"},
     
