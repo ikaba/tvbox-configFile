@@ -23,17 +23,6 @@
     {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
     {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099584ed490195f7bf50ac60b9"}},
     
-    {"key": "AV-色南国","name": "AV-色南国","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api.sexnguon.com"},
-    {"key": "香奶儿资源","name": "AV-香奶儿资源","type": 1,"api": "https://www.gdlsp.com/api/json.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gdlsp.com"},
-    {"key": "AV-辣椒资源","name": "AV-辣椒资源","type": 1,"api": "https://apilj.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://apilj.com"}, 
-    {"key": "AV-百万资源","name": "AV-百万资源","type": 1,"api": "https://api.bwzyz.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api.bwzyz.com"},
-    {"key": "AV-91麻豆","name": "AV-91麻豆","type": 1,"api": "https://91md.me/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://91md.me"},
-    {"key": "AV-souav资源","name": "AV-souav资源","type": 1,"api": "https://api.souavzy.vip/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api.souavzy.vip"},
-    {"key": "AV-淫水机资源","name": "AV-淫水机资源","type": 1,"api": "https://www.xrbsp.com/api/json.php","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.xrbsp.com"},
-    {"key": "AV-白嫖资源","name": "AV-白嫖资源","type": 1,"api": "https://www.kxgav.com/api/json.php","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kxgav.com"},
-    {"key": "AV-美少女资源","name": "AV-美少女资源","type": 1,"api": "https://www.msnii.com/api/json.php","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.msnii.com"},
-    {"key": "AV-色猫资源","name": "AV-色猫资源","type": 1,"api": "https://api.maozyapi.com/inc/apijson_vod.php","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api.maozyapi.com"}, 
-
     {"key": "TV-360资源","name": "TV-360资源","type": 1,"api": "https://360zy.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://360zy.com"},
     {"key": "TV-CK资源","name": "TV-CK资源","type": 1,"api": "https://ckzy.me/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ckzy.me"},
     {"key": "TV-U酷资源","name": "TV-U酷资源","type": 1,"api": "https://api.ukuapi.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api.ukuapi.com"},
@@ -85,22 +74,6 @@
 
 
     
-    {"key": "AV155","name": "AV-155资源","type": 1,"api": "https://155api.com/api.php/provide/vod","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://155api.com"},
-    {"key": "鲨鱼资源","name": "AV-鲨鱼资源","type": 1,"api": "https://shayuapi.com/api.php/provide/vod","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://shayuapi.com"},
-    {"key": "黄AV资源","name": "AV-黄AV资源","type": 1,"api": "https://www.pgxdy.com/api/json.php","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://www.pgxdy.com"},
-    {"key": "AV-AIvin","name": "AV-AIvin","type": 1,"api": "http://lbapiby.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
-    {"key": "AV-JKUN资源","name": "AV-JKUN资源","type": 1,"api": "https://jkunzyapi.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jkunzyapi.com"},
-    {"key": "AV-乐播资源","name": "AV-乐播资源","type": 1,"api": "https://lbapi9.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
-    {"key": "AV-奶香香","name": "AV-奶香香","type": 1,"api": "https://Naixxzy.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://Naixxzy.com"},
-    {"key": "AV-森林资源","name": "AV-森林资源","type": 1,"api": "https://slapibf.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://slapibf.com"},
-    {"key": "AV-番号资源","name": "AV-番号资源","type": 1,"api": "http://fhapi9.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
-    {"key": "AV-精品资源","name": "AV-精品资源","type": 1,"api": "https://www.jingpinx.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.jingpinx.com"},
-    {"key": "AV-老色逼资源","name": "AV-老色逼资源","type": 1,"api": "https://apilsbzy1.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://apilsbzy1.com"},
-    {"key": "玉兔资源","name": "AV-玉兔资源","type": 1,"api": "https://apiyutu.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://apiyutu.com"},
-
-    {"key": "AV-奥斯卡资源","name": "AV-奥斯卡资源","type": 1,"api": "https://aosikazy.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aosikazy.com"},
-
-
     
     {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
     
