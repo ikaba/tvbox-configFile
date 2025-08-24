@@ -1,0 +1,12 @@
+//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+//此网址就是多仓接口，直接复制就能使用，无需打开下方的链接，复制room.json结尾的网址即可！
+{
+"storeHouse": [
+{"sourceName":"💚多多优选仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
+{"sourceName":"💛多多公众仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"},
+{"sourceName":"❤️多多聚合仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"},
+{"sourceName":"匿名单仓","sourceUrl":"https://12586.kstore.space/123.txt"},
+{"sourceName":"潇洒单仓","sourceUrl":"https://9877.kstore.space/AnotherDS/api.json"},
+{"sourceName":"欧歌单仓","sourceUrl":"https://欧歌.v.nxog.top/nxog/ou1.php"},
+{"sourceName":"★奇奇单仓","sourceUrl":"http://z.qiqiv.cn/123.txt"}
+]}
