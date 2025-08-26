@@ -22,7 +22,7 @@
         {"key": "偷乐短剧", "name": "☺️┃偷乐┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
         {"key": "csp_SP360", "name": "📺┃360┃官源", "type": 3, "api": "csp_SP360"},
         
-        {"key": "低端", "name": "💖分享低端", "type": 3, "api": "csp_Ddrk", "playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"},
+//        {"key": "低端", "name": "💖分享低端", "type": 3, "api": "csp_Ddrk", "playerType": "2", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"},
         {"key": "低端2", "name": "💖分享低端2", "type": 3, "api": "csp_Ddys", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/Xiang.txt"},
         
         {"key": "csp_Gz360", "name": "💖分享瓜子", "type": 3, "quickSearch": 1, "api": "csp_Gz360Guard", "jar": "https://cns.菜妮丝.top/https://github.com/maoystv/TV/blob/master/jar/分享者x.jar"},
