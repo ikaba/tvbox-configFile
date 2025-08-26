@@ -5,7 +5,6 @@
 "wallpaper":"http://王二小放牛娃牛逼.999888987.xyz","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 "sites":[
 {"key":"Douban","name":"🐮【公众号：王二小放牛娃】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
-{"key":"Doubana","name":"🐮【更新日期:20250820】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
 
 {"key":"WexikanbotGuard","name":"🎇爱看┃采集🎇","type":3,"api":"csp_WexikanbotGuard","searchable":1,"changeable":1}
 ],
