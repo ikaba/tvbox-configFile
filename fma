@@ -5,6 +5,7 @@
 "sites":[
 {"key":"豆瓣","name":"🐼┃备用公众号┃我不是肥猫","type":3,"api":"csp_Douban","searchable":0},
 {"key":"config","name":"🐼┃配置┃中心","type":3,"api":"csp_Config","playerType":2},
+{"key": "采集之王", "name": "💖分享采集之王", "type": 3, "api": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js", "searchable": 1, "quickSearch": 1, "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/采集之王_合_.js?type=url&params=https://git.acwing.com/YGFXZ/0/-/raw/main/采集静态.json"},
 {"key":"潮流","name":"🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.rbotv.cn"},
 {"key":"梦回","name":"🏈┃梦回┃APP","type":3,"api":"csp_AppRJ","ext":"http://v.lkuys.cn"},
 {"key":"星辉","name":"🦢┃星辉┃APP","type":3,"api":"csp_AppRJ","ext":"http://tt.ysdqjs.cn"},
