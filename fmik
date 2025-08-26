@@ -14,6 +14,7 @@
         {"key": "梦回", "name": "🏈┃梦回┃APP", "type": 3, "api": "csp_AppRJ", "ext": "http://v.lkuys.cn"},
         {"key": "csp_AppXY", "name": "🎀️┃星牙┃短剧", "type": 3, "api": "csp_AppXY"},
         {"key": "河马短剧", "name": "🦛┃河马┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
+        {"key": "奇优", "name": "💖分享奇优", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar", "ext": {"请求头": "手机", "主页url": "http://www.qiyoudy2.com/", "简介": "&&</div>", "数组": "<div class=\"stui-vodlist__box\">&&</a>", "图片": "data-original=\"&&\"", "标题": "title=\"&&\"", "副标题": "text-right\">&&</span>", "链接": "href=\"&&\"", "搜索url": "http://www.qiyoudy2.com/search.php;post;searchword={wd}", "搜索数组": "v-thumb stui-vodlist__thumb&&</a>", "搜索图片": "data-original=\"&&\"", "搜索标题": "title=\"&&\"", "搜索副标题": "text-right\">&&</span>", "搜索链接": "href=\"&&\"", "线路数组": "data-toggle=\"tab\"&&</li>", "线路标题": ">&&</a>", "播放数组": "stui-content__playlist clearfix&&</ul>", "播放列表": "<li>&&</li>", "播放标题": ">&&</a>", "分类url": "http://www.qiyoudy2.com/list/{cateId}_{catePg}.html;;ak", "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}},
         {"key": "偷乐短剧", "name": "☺️┃偷乐┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
         
         
@@ -27,54 +28,25 @@
         {"key": "csp_Xlys", "name": "🏔️┃修罗┃磁力", "type": 3, "api": "csp_Xlys", "ext": "https://xl01.com.de"},
         {"key": "csp_J", "name": "🌎┃饺子┃外剧", "type": 3, "api": "csp_Jiaozi", "playerType": 2},{"key": "天天", "name": "💖分享甜甜", "type": 3, "quickSearch": 1, "api": "csp_AppRJGuard", "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK", "jar": "https://cns.菜妮丝.top/https://github.com/maoystv/TV/blob/master/jar/分享者x.jar"},
         
-        {"key": "久久影视", "name": "💖分享久久", "type": 3, "api": "csp_AppYsV2", "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者配置.jar", "playerType": 2, "ext": "http://99cms.jj99.icu:8199/api.php/app/"},
-        {"key": "五大采集平台", "name": "💝分享官采", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765", "ext": "http://39.105.18.5:5565/api.php/app/"},
-        
-        
-        
-        {"key": "酷奇js", "name": "🎤酷奇MV", "type": 3, "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js", "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js", "style": {"type": "rect", "ratio": 1.597}, "searchable": 0, "quickSearch": 0, "changeable": 0},
-        {"key": "csp_聚短视频", "name": "📽️聚合视频", "type": 3, "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js", "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/短视频.js", "searchable": 0, "quickSearch": 0, "changeable": 0},
-        
-        {"key": "悠悠", "name": "💖分享柚柚", "type": 3, "api": "csp_AppGetGuard", "ext": "sHR2rlsfjI4L3t4RXQMkn/SuTAP3sPRQGBWuLvcmqKzB0VDXHCXpl1Ugjr+FDbThLkOlJw+enu5rX6Gi5Eay7fQsWqXd6BDxJiUQhlgoJK8e5xxCJ9nwrwj6kMUp/6p1VRAifgbuhWRNt3QvwDcQuVprQOm1sPpNIA5/4ETbh6NqiJMytm2GvLOT5q1V4JL0o8yS7Wi/DzRESarcZqtQFezwR4OOFRPb87F1DN64FdniYrg/3iFRnSnv+xlFM0WM", "jar": "https://cns.菜妮丝.top/https://github.com/maoystv/TV/blob/master/jar/分享者x.jar"},
-        {"key": "彼岸", "name": "💖分享比岸", "type": 3, "api": "csp_AppGetGuard", "ext": "sHR2rlsfjI4L3t4RXQMkn7aCdbmEEJemIAMIZKUtqGgsGGu8pwXvr2LeRsZcUw470sPHEcVGwL+S1KXewVMXjiKIO8pyAb+D92wSofXabJ9D/vp1BrWcRY0oqseMr0zdjuUttXvKLF3XIAMohb0gy17AJwWfADv8Wx1ra5IL24b2nxG2mlHFKyBU+JPeaCC+MC0C5XKErmQDfukUrod2vFfOf3hBQOgF1s4YCnVypCrZ/kuEv9GBLPI+6ikvXEkQ8L//Ka1SL++vi3Do4Ub+DA==", "jar": "https://cns.菜妮丝.top/https://github.com/maoystv/TV/blob/master/jar/分享者x.jar"},
-        {"key": "再看", "name": "💖分享在看", "type": 3, "api": "csp_AppGetGuard", "ext": "sHR2rlsfjI4L3t4RXQMknz+i4ffRorIRZjjcJiBr38wb5nwBciO6ms6RNqBIVi1QB7PRspm4f6MrvIOTd++7FMqkk2yG1eGTUUzyqIbYT58chQYyOMy+COm7unddRux9fFr5h0OEYTptHw9PnRiTV+JAXmIsIgUDKAamVsoOxAyhlMsA0WCzqY0OMMVhCnjjZNeioODGEF/HaKVwMC7i7GkxX/1SkEhN54oZYjGADVp/JQD55mycg7C8p5BmUHb0", "jar": "https://cns.菜妮丝.top/https://github.com/maoystv/TV/blob/master/jar/分享者x.jar"},
-        
-        {"key": "采集之王", "name": "💖分享采合", "type": 3, "api": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js", "searchable": 1, "quickSearch": 1, "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/采集之王_合_.js?type=url&params=https://git.acwing.com/YGFXZ/0/-/raw/main/采集静态.json"},
-        {"key": "drpy_bx", "name": "💖分享百姓", "api": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js", "type": 3, "searchable": 1, "changeable": 0, "quickSearch": 1, "playerType": "2", "ext": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享BX.json"},
-        {"key": "drpy_dm8", "name": "💖分享动漫", "type": 3, "api": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js", "ext": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/6/main/js/动漫网.js"},
-        
         {"key": "萌米", "name": "💖分享萌米", "type": 3, "api": "csp_AppTT", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "AO7TcBkd8I2bux0Y8Qze6tVlMg==", "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"},
         {"key": "欢视", "name": "💖分享欢视", "type": 3, "api": "csp_AppTT", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "AO7TcBkd8I/B+Qsa7gqa+pU=", "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"},
         {"key": "热播", "name": "💖分享热播", "type": 3, "api": "csp_AppTT", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "AO7TcBkd8I/B5wQc4Qma+pU=", "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"},
+        {"key": "csp_Gz360", "name": "💖分享瓜子", "type": 3, "quickSearch": 1, "api": "csp_Gz360Guard", "jar": "https://cns.菜妮丝.top/https://github.com/maoystv/TV/blob/master/jar/分享者x.jar"},
+        {"key": "巧技", "name": "🚗巧技┃聚搜", "type": 3, "searchable": 1, "quickSearch": 0, "api": "csp_qiao2", "playerType": 2, "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10", "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
+        {"key": "牛牛", "name": "🍁牛牛┃影视", "type": 3, "quickSearch": 0, "searchable": 1, "api": "https://13826.kstore.space/mioaying.py"},
+        {"key": "nm糯米", "name": "💖分享糯米", "type": 3, "api": "csp_Nmyswv", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"},
         
-        {"key": "csp_XBPQ_fxzcjy", "name": "💖分享柴姬", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar", "ext": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/XBPQ/分享caiji.json"},
-        {"key": "奇优", "name": "💖分享奇优", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar", "ext": {"请求头": "手机", "主页url": "http://www.qiyoudy2.com/", "简介": "&&</div>", "数组": "<div class=\"stui-vodlist__box\">&&</a>", "图片": "data-original=\"&&\"", "标题": "title=\"&&\"", "副标题": "text-right\">&&</span>", "链接": "href=\"&&\"", "搜索url": "http://www.qiyoudy2.com/search.php;post;searchword={wd}", "搜索数组": "v-thumb stui-vodlist__thumb&&</a>", "搜索图片": "data-original=\"&&\"", "搜索标题": "title=\"&&\"", "搜索副标题": "text-right\">&&</span>", "搜索链接": "href=\"&&\"", "线路数组": "data-toggle=\"tab\"&&</li>", "线路标题": ">&&</a>", "播放数组": "stui-content__playlist clearfix&&</ul>", "播放列表": "<li>&&</li>", "播放标题": ">&&</a>", "分类url": "http://www.qiyoudy2.com/list/{cateId}_{catePg}.html;;ak", "分类": "电影$1#电视剧$2#动漫$3#综艺$4"}},
-        {"key": "nu", "name": "💖分享|Nuu", "type": 3, "api": "csp_XBPQ", "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar", "ext": {"分类url": "https://nuu.su/x/id/{cateId}/page/{catePg}.html", "分类": "https://json.heimuer.xyz/api.php/provide/vod?ac=list"}},
-        {"key": "csp_fxzwj", "name": "💖分享问界", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar", "ext": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享WJ.json"},
-        {"key": "fxcq", "name": "💖分享超强", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "playerType": "2", "api": "csp_XBPQ", "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar", "ext": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享CQ.json"},
-        {"key": " fxzds ", "name": "💖分享袋鼠", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/XBPQ(2).jar", "ext": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/分享DS.json"},
-        {"key": "来看点播", "name": "💖分享来看", "type": 3, "searchable": 1, "quickSearch": 1, "api": "csp_XBPQ", "jar": "", "ext": "https://gitee.com/kongkong1982/dy/raw/main/js/%E6%9D%A5%E7%9C%8B%E7%82%B9%E6%92%AD.json"},
+        
+        {"key": "WexikanbotGuard", "name": "🎇爱看┃采集🎇", "type": 3, "api": "csp_WexikanbotGuard", "searchable": 1, "changeable": 1, "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/9fadd28b5fb884e3/wex.png;md5;da870f2384c7d328231d8c47934e98e0"},
+        {"key": "五大采集平台", "name": "💝分享官采", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765", "ext": "http://39.105.18.5:5565/api.php/app/"},
+        {"key": "采集之王", "name": "💖分享采集之王", "type": 3, "api": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/000/master/js/drpy2.min.js", "searchable": 1, "quickSearch": 1, "ext": "https://git.acwing.com/YGFXZ/0/-/raw/main/采集之王_合_.js?type=url&params=https://git.acwing.com/YGFXZ/0/-/raw/main/采集静态.json"},
+        
+        
         
         
         
 
         {"key": "低端", "name": "💖分享低端", "type": 3, "api": "csp_Ddys", "searchable": 1, "quickSearch": 1, "filterable": 0, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/Xiang.txt"},
-        
-        {"key": "csp_Gz360", "name": "💖分享瓜子", "type": 3, "quickSearch": 1, "api": "csp_Gz360Guard", "jar": "https://cns.菜妮丝.top/https://github.com/maoystv/TV/blob/master/jar/分享者x.jar"},
-        
-        
-        {"key": "MV大全", "name": "💽MV大全", "type": 4, "api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},
-        
-        
-        
-        
-        {"key": "WexikanbotGuard", "name": "🎇爱看┃采集🎇", "type": 3, "api": "csp_WexikanbotGuard", "searchable": 1, "changeable": 1, "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/9fadd28b5fb884e3/wex.png;md5;da870f2384c7d328231d8c47934e98e0"},
-        {"key": "巧技", "name": "🚗巧技┃聚搜", "type": 3, "searchable": 1, "quickSearch": 0, "api": "csp_qiao2", "playerType": 2, "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/714c5f6aa89af46f/071.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10", "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
-        {"key": "QD4K", "name": "🐷猪猪┃影视", "type": 3, "searchable": 1, "quickSearch": 0, "api": "https://d.feiliupan.com/t/109056264444579840/AppV2.py", "playerType": 2, "ext": {"api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod", "datasignkey": "6QQNUsP3PkD2ajJCPCY8", "apisignkey": "lvdoutv-1.0.0"}},
-        {"key": "牛牛", "name": "🍁牛牛┃影视", "type": 3, "quickSearch": 0, "searchable": 1, "api": "https://13826.kstore.space/mioaying.py"},
-        {"key": "nm糯米", "name": "💖分享糯米", "type": 3, "api": "csp_Nmyswv", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"},
-        {"key": "sbb素素", "name": "💖分享素素", "type": 3, "api": "csp_Sbaibai", "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者F.jar"},
-        {"key": "专线", "name": "💖分享专线", "type": 3, "api": "csp_FourKTV", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者专线.jar"},
         {"key": "fxzYD", "name": "💖分享移动", "type": 3, "jar": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者YD.jar", "api": "csp_YDjisu", "searchable": 1, "changeable": 1},
         {"key": "度+度", "name": "💝分享摆渡", "type": 3, "api": "csp_BaiduQuPanGuard", "changeable": 0, "ext": {"baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_bd.js"}, "jar": "https://gitee.com/yuan301/tv/raw/master/A/ok.jar"},
         {"key": "星+星", "name": "💝分享双星", "type": 3, "api": "csp_Star2Guard", "changeable": 0, "ext": {"cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_qk.js", "baidu_cookie": "https://gitee.com/yuan301/tv/raw/master/A/z_bd.js"}, "jar": "https://gitee.com/yuan301/tv/raw/master/A/ok.jar"},
