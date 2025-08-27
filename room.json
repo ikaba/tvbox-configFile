@@ -2,12 +2,11 @@
 //此网址就是多仓接口，直接复制就能使用，无需打开下方的链接，复制room.json结尾的网址即可！
 {
 "storeHouse": [
-{"sourceName":"💚多多优选仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
-{"sourceName":"💛多多公众仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"},
-{"sourceName":"❤️多多聚合仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"},
+{"sourceName":"多多优选仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
+{"sourceName":"多多公众仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多应用汇.txt"},
+{"sourceName":"多多聚合仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多软件库.txt"},
 {"sourceName":"匿名单仓","sourceUrl":"https://12586.kstore.space/123.txt"},
 {"sourceName":"潇洒单仓","sourceUrl":"https://9877.kstore.space/AnotherDS/api.json"},
 {"sourceName":"欧歌单仓","sourceUrl":"https://欧歌.v.nxog.top/nxog/ou1.php"},
-{"sourceName":"★奇奇单仓","sourceUrl":"http://z.qiqiv.cn/123.txt"},
-{"sourceName":"📚️多多本地仓🍭不做韭菜🍭","sourceUrl":"clan://localhost/tvbox/duo.json"}
+{"sourceName":"★奇奇单仓","sourceUrl":"http://z.qiqiv.cn/123.txt"}
 ]}
