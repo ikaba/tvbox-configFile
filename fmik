@@ -20,25 +20,7 @@
         
 
 
-{
-    "key": "香蕉APP",
-    "name": "香蕉APP",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/香蕉APP.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
-  },
-  {
-    "key": "51吸瓜s",
-    "name": "51吸瓜",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/51%E5%90%B8%E7%93%9C.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
+
   {
     "key": "py_DSYS",
     "name": "DSYS",
@@ -49,36 +31,8 @@
     "filterable": 1,
     "changeable": 0
   },
-  {
-    "key": "py_Miss",
-    "name": "Miss",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/Miss.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
-  {
-    "key": "Phb",
-    "name": "Phb",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/Phb.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
-  {
-    "key": "Xhm",
-    "name": "Xhm",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/Xhm.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
+  
+  
   {
     "key": "Xvd",
     "name": "Xvd",
@@ -119,26 +73,8 @@
     "filterable": 1,
     "changeable": 0
   },
-  {
-    "key": "浴火社APP",
-    "name": "浴火社APP",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/浴火社APP.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
-  {
-    "key": "花都",
-    "name": "花都",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/花都.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  }, 
+ 
+
         
         {"key": "一碗", "name": "🥣┃一碗┃APP", "type": 3, "api": "csp_AppGet", "ext": {"url": "http://122.228.193.2:9654", "dataKey": "ca94b06ca3c7d80e", "siteApi": "get", "version": "119"}},
         {"key": "仓鼠", "name": "🐹┃耗子┃APP", "type": 3, "api": "csp_AppGet", "ext": {"url": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt", "dataKey": "ca94b06ca359d80e", "siteApi": "qiji", "version": ""}},
@@ -347,7 +283,9 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, 
-        {"name":"酒店源","type":0,"url":"https://taoiptv.com/lives/35014.m3u?token=79b56f7047c4f084","playerType":2}
+        {"name":"福建 联通 酒店源","type":0,"url":"https://taoiptv.com/lives/35014.m3u?token=79b56f7047c4f084","playerType":2}, 
+        {"name":"宁夏 电信 组播源","type":0,"url":"https://taoiptv.com/lives/64023.m3u?token=79b56f7047c4f084","playerType":2}
+        
     ],
     "rules": [
         {"name": "♻️量非", "hosts": ["lz", "vip.lz", "v.cdnlz", "hd.lz", "ffzy", "vip.ffzy", "hd.ffzy"], "regex": ["#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY", "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.600000,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
