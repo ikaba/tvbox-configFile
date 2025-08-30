@@ -5,7 +5,59 @@
 "wallpaper":"http://王二小放牛娃牛逼.999888987.xyz","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 "sites":[
 {"key":"Douban","name":"🐮【公众号：王二小放牛娃】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"} 
-  {"key":"WexikanbotGuard","name":"🎇爱看┃采集🎇","type":3,"api":"csp_WexikanbotGuard","searchable":1,"changeable":1}
+  {"key":"WexikanbotGuard","name":"🎇爱看┃采集🎇","type":3,"api":"csp_WexikanbotGuard","searchable":1,"changeable":1}, 
+  {
+    "key": "py_DSYS",
+    "name": "DSYS",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/DSYS.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  
+  
+  {
+    "key": "Xvd",
+    "name": "Xvd",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/Xvd.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "lavAPP",
+    "name": "lavAPP",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/lavAPP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "小红薯APP",
+    "name": "小红薯APP",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/小红薯APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "推特APP",
+    "name": "推特APP",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/推特APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  }
 
 ],
 "parses":[

@@ -20,61 +20,6 @@
         
 
 
-
-  {
-    "key": "py_DSYS",
-    "name": "DSYS",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/DSYS.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
-  
-  
-  {
-    "key": "Xvd",
-    "name": "Xvd",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/Xvd.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
-  {
-    "key": "lavAPP",
-    "name": "lavAPP",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/lavAPP.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
-  {
-    "key": "小红薯APP",
-    "name": "小红薯APP",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/小红薯APP.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
-  {
-    "key": "推特APP",
-    "name": "推特APP",
-    "type": 3,
-    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/推特APP.py",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable": 0
-  },
- 
-
         
         {"key": "一碗", "name": "🥣┃一碗┃APP", "type": 3, "api": "csp_AppGet", "ext": {"url": "http://122.228.193.2:9654", "dataKey": "ca94b06ca3c7d80e", "siteApi": "get", "version": "119"}},
         {"key": "仓鼠", "name": "🐹┃耗子┃APP", "type": 3, "api": "csp_AppGet", "ext": {"url": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt", "dataKey": "ca94b06ca359d80e", "siteApi": "qiji", "version": ""}},
