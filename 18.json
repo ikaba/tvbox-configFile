@@ -137,13 +137,13 @@
 ],
 "ads":["mozai.4gtv.tv","pv.vipwm.cc"],
 "lives":[
-        {"name": "宝盒专享","type": 0,"url": "https://3043.kstore.space/bhvip/bh/bhzb2.txt","ua": "catvod","epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType": 1,"timeout": 10},
-        {"name": "live","type": 0,"playerType": 1,"url": "https://6296.kstore.vip/25.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}, 
+        {"name": "宝盒专享","type": 0,"url": "https://3043.kstore.space/bhvip/bh/bhzb2.txt","ua": "catvod","epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}","playerType": 2,"timeout": 10},
+        {"name": "live","type": 0,"playerType": 2,"url": "https://6296.kstore.vip/25.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}, 
         {"name":"福建 联通 酒店源","type":0,"url":"https://taoiptv.com/lives/35014.m3u?token=79b56f7047c4f084","playerType":2}, 
         {"name":"宁夏 电信 组播源","type":0,"url":"https://taoiptv.com/lives/64023.m3u?token=79b56f7047c4f084","playerType":2}, 
         
         {"name":"YanG•综合","type":0,"url":"https://tv.iill.top/m3u/Gather","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
-    {"name":"Ray•综合","type":0,"url":"https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-    {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
+    {"name":"Ray•综合","type":0,"url":"https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+    {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
 ]}
 
