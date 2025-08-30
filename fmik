@@ -18,7 +18,7 @@
         {"key": "偷乐短剧", "name": "☺️┃偷乐┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
         
         
-{"key":"WexikanbotGuard","name":"🎇爱看┃采集🎇","type":3,"api":"csp_WexikanbotGuard","searchable":1,"changeable":1}, 
+
 
 {
     "key": "香蕉APP",
@@ -138,7 +138,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "changeable": 0
-  }
+  }, 
         
         {"key": "一碗", "name": "🥣┃一碗┃APP", "type": 3, "api": "csp_AppGet", "ext": {"url": "http://122.228.193.2:9654", "dataKey": "ca94b06ca3c7d80e", "siteApi": "get", "version": "119"}},
         {"key": "仓鼠", "name": "🐹┃耗子┃APP", "type": 3, "api": "csp_AppGet", "ext": {"url": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt", "dataKey": "ca94b06ca359d80e", "siteApi": "qiji", "version": ""}},
