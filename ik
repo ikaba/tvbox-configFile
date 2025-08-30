@@ -5,8 +5,131 @@
 "wallpaper":"http://王二小放牛娃牛逼.999888987.xyz","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
 "sites":[
 {"key":"Douban","name":"🐮【公众号：王二小放牛娃】🐮","type":3,"api":"csp_DoubanGuard","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747636545646/douban.json"},
+{"key":"WexikanbotGuard","name":"🎇爱看┃采集🎇","type":3,"api":"csp_WexikanbotGuard","searchable":1,"changeable":1}, 
 
-{"key":"WexikanbotGuard","name":"🎇爱看┃采集🎇","type":3,"api":"csp_WexikanbotGuard","searchable":1,"changeable":1}
+{
+    "key": "香蕉APP",
+    "name": "香蕉APP",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/香蕉APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+  },
+  {
+    "key": "51吸瓜s",
+    "name": "51吸瓜",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/51%E5%90%B8%E7%93%9C.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "py_DSYS",
+    "name": "DSYS",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/DSYS.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "py_Miss",
+    "name": "Miss",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/Miss.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "Phb",
+    "name": "Phb",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/Phb.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "Xhm",
+    "name": "Xhm",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/Xhm.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "Xvd",
+    "name": "Xvd",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/Xvd.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "lavAPP",
+    "name": "lavAPP",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/lavAPP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "小红薯APP",
+    "name": "小红薯APP",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/小红薯APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "推特APP",
+    "name": "推特APP",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/推特APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "浴火社APP",
+    "name": "浴火社APP",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/浴火社APP.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "花都",
+    "name": "花都",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/花都.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  }
+  
+
+
+
 ],
 "parses":[
 {"name":"王","type":1,"url":"http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="},
@@ -34,4 +157,6 @@
 ],
 "ads":["mozai.4gtv.tv","pv.vipwm.cc"],
 "lives":[
-{"name":"范明明","type":0,"url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u","playerType":1}]}
+	{"name":"酒店源","type":0,"url":"https://taoiptv.com/lives/35014.m3u?token=79b56f7047c4f084","playerType":2}
+]}
+
