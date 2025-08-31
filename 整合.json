@@ -1,0 +1,349 @@
+{
+    "urls": [
+        {
+            "name": "自制单仓┃巧技",
+            "url": "http://pandown.pro/tvbox/tvbox.json"
+        },
+        {
+            "name": "自制单仓┃多多",
+            "url": "https://yydsys.top/duo"
+        },
+        {
+            "name": "自制单仓┃肥猫",
+            "url": "http://hello.肥猫.com"
+        },
+        {
+            "name": "自制单仓┃菜妮丝",
+            "url": "https://tv.菜妮丝.top"
+        },
+        {
+            "name": "自制单仓┃OK杰克",
+            "url": "http://ok321.top/tv"
+        },
+        {
+            "name": "自制单仓┃王二小",
+            "url": "http://tvbox.王二小放牛娃.top"
+        },
+        {
+            "name": "自制单仓┃潇洒",
+            "url": "https://9877.kstore.space/AnotherD/api.json"
+        },
+        {
+            "name": "自制单仓┃南风",
+            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
+        },
+        {
+            "name": "自制单仓┃电视自用",
+            "url": "https://qist.ugigc.dpdns.org/jsm.json"
+        },
+        {
+            "name": "自制单仓┃宝盒",
+            "url": "https://3043.kstore.space/bhvip/bh/box.json"
+        },
+        {
+            "name": "自制单仓┃欧歌",
+            "url": "http://tv.nxog.top/m"
+        },
+        {
+            "name": "自制单仓┃香雅情",
+            "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json"
+        },
+        {
+            "name": "自制单仓┃采集之王",
+            "url": "https://raw.githubusercontent.com/jiushizhe/daozhang/main/drpy_dzlive6.21/index.json"
+        },
+        {
+            "name": "自制单仓┃饭太硬",
+            "url": "http://www.饭太硬.com/tv"
+        },
+        {
+            "name": "自制单仓┃余生",
+            "url": "https://ysys.lic10.cn/ys/"
+        },
+        {
+            "name": "自制单仓┃cyao2q",
+            "url": "https://cyao2q.github.io/files/m.json"
+        },
+        {
+            "name": "自制单仓┃dxawi",
+            "url": "https://dxawi.github.io/0/0.json"
+        },
+        {
+            "name": "自制单仓┃运输车",
+            "url": "https://weixine.net/ysc.json"
+        },
+        {
+            "name": "自制单仓┃liucn",
+            "url": "https://raw.liucn.cc/box/m.json"
+        },
+        {
+            "name": "自制单仓┃少儿频道",
+            "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
+        },
+        {
+            "url": "https://yydsys.netlify.app/config.json",
+            "name": "多多优选仓┃🚀推荐┃②多多备用"
+        },
+        {
+            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+            "name": "多多优选仓┃🚀多多┃③PG线路"
+        },
+        {
+            "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+            "name": "多多优选仓┃🚀多多┃⑤真心线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQTVBox.json",
+            "name": "多多优选仓┃🚀多多┃⑦香雅情线路"
+        },
+        {
+            "url": "http://rihou.cc:555/nzk/nzk0722.json",
+            "name": "多多优选仓┃🚀多多┃⑧D佬线路"
+        },
+        {
+            "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+            "name": "多多优选仓┃🚀多多┃⑨短剧线路"
+        },
+        {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "多多优选仓┃🚀多多┃⑪老虎线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+            "name": "多多优选仓┃🚀多多┃⑫老刘备线路"
+        },
+        {
+            "url": "http://肥猫.com",
+            "name": "多多公众仓┃🐹多多┃肥猫线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "多多公众仓┃🐹多多┃南风线路"
+        },
+        {
+            "url": "http://miqk.cc/小米/DEMO.json",
+            "name": "多多公众仓┃🐹多多┃小米线路"
+        },
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "多多公众仓┃🐹多多┃摸鱼线路"
+        },
+        {
+            "url": "http://www.meowtv.vip/tvbox.json",
+            "name": "多多公众仓┃🐹多多┃喵影视线路"
+        },
+        {
+            "url": "https://clun.top/box.json",
+            "name": "多多公众仓┃🐹多多┃小白线路"
+        },
+        {
+            "url": "https://毒盒.com/tv",
+            "name": "多多公众仓┃🐹多多┃毒盒线路"
+        },
+        {
+            "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
+            "name": "多多公众仓┃🐹多多┃青龙线路"
+        },
+        {
+            "url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json",
+            "name": "多多聚合仓┃💎多多┃不良帅线路"
+        },
+        {
+            "url": "http://zhangqun66.com/zq/api.json",
+            "name": "多多聚合仓┃💎多多┃采集线路"
+        },
+        {
+            "url": "https://gitee.com/free-kingdom/dc/raw/main/T4.json",
+            "name": "多多聚合仓┃💎多多┃T4线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "多多聚合仓┃💎多多┃高天流云"
+        },
+        {
+            "url": "https://龙伊.top",
+            "name": "多多聚合仓┃💎多多┃龙伊线路"
+        },
+        {
+            "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
+            "name": "多多聚合仓┃💎多多┃业余线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json",
+            "name": "多多聚合仓┃💎多多┃胜寒线路"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "name": "多多聚合仓┃💎多多┃二哈线路"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "多多聚合仓┃💎多多┃巧技线路"
+        },
+        {
+            "url": "https://tv.xn--yhqu5zs87a.top",
+            "name": "多多聚合仓┃💎多多┃菜妮丝线路"
+        },
+        {
+            "url": "http://szyyds.cn/tv/x.json",
+            "name": "多多聚合仓┃💎多多┃小马线路"
+        },
+        {
+            "url": "https://gitee.com/xxoooo/fan/raw/master/in.bmp",
+            "name": "匿名单仓┃饭太硬（备用）"
+        },        
+        {
+            "url": "http://我不是.摸鱼儿.top",
+            "name": "匿名单仓┃摸鱼儿"
+        },
+        {
+            "url": "http://hb.小虎斑.site:25252/仅供测试",
+            "name": "匿名单仓┃小虎斑"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "name": "匿名单仓┃南风"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "匿名单仓┃香雅情"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/movie.json",
+            "name": "潇洒单仓┃影视"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/anime.json",
+            "name": "潇洒单仓┃动漫"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/other.json",
+            "name": "潇洒单仓┃文艺"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/sport.json",
+            "name": "潇洒单仓┃体育"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/education.json",
+            "name": "潇洒单仓┃教育"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/webcast.json",
+            "name": "潇洒单仓┃直播"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/magnet.json",
+            "name": "潇洒单仓┃磁力"
+        },
+        {
+            "url": "https://9877.kstore.space/AnotherDS/cloud.json",
+            "name": "潇洒单仓┃云盘"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "name": "欧歌单仓┃📢欧歌家庭线路1📢"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌",
+            "name": "欧歌单仓┃💚欧歌云盘线路2💚"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌",
+            "name": "欧歌单仓┃💖欧歌学习线路3💖"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/m/333.php?ou=公众号欧歌app&mz=1&jar=index&321&b=欧歌",
+            "name": "欧歌单仓┃👇下面欧歌收集网络线路👇"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=1",
+            "name": "欧歌单仓┃🌟饭太硬线路🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=2",
+            "name": "欧歌单仓┃🌟2光歌线路2🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=3",
+            "name": "欧歌单仓┃🌟3盒子迷线路3🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=4",
+            "name": "欧歌单仓┃🌟4肥猫线路4🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=5",
+            "name": "欧歌单仓┃🌟5潇洒线路5🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=6",
+            "name": "欧歌单仓┃🌟pg线路🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=7",
+            "name": "欧歌单仓┃🌟小米线路🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=8",
+            "name": "欧歌单仓┃🌟8王二线路8🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=9",
+            "name": "欧歌单仓┃🌟9花生线路9🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=10",
+            "name": "欧歌单仓┃🌟10喵影视线路10🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=11",
+            "name": "欧歌单仓┃🌟 11OK线路11🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=12",
+            "name": "欧歌单仓┃🌟12多多线路12🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=13",
+            "name": "欧歌单仓┃🌟13短剧线路13🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=14",
+            "name": "欧歌单仓┃🌟14老虎线路14🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=15",
+            "name": "欧歌单仓┃🌟15真心线路15🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=16",
+            "name": "欧歌单仓┃🌟16菜妮丝线路16🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=17",
+            "name": "欧歌单仓┃🌟17巧技线路17🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=18",
+            "name": "欧歌单仓┃🌟18摸鱼线路18🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=19",
+            "name": "欧歌单仓┃🌟19青龙线路19🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=20",
+            "name": "欧歌单仓┃🌟20南风线路20🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=21",
+            "name": "欧歌单仓┃🌟21杰歌线路21🌟"
+        },
+        {
+            "url": "https://xn--dkw0c.v.nxog.top/apitv.php?id=22",
+            "name": "欧歌单仓┃🌟收集不分排名📢🌟"
+        }
+    ],
+    "description": "由多仓配置文件整合生成于 2025-08-31 08:25:06"
+}
