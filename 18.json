@@ -15,20 +15,6 @@
             "filterable": 0
         },
         {
-            "key": "星芽",
-            "name": "🌟┃星芽┃短剧",
-            "type": 3,
-            "api": "csp_Xydj",
-            "jar": "https://ncstatic.clewm.net/rsrc/2025/0821/23/753d376ab89b34e2bf78761f5fe0289a.png;md5;526453EBC8F8F6C30FB2AEC9252DCED0",
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
             "key": "甜圈短剧",
             "name": "甜圈｜短剧",
             "type": 3,
@@ -39,42 +25,10 @@
             "filterable": 1
         },
         {
-            "key": "红果",
-            "name": "🍎┃红果┃短剧",
-            "type": 3,
-            "api": "csp_HongGuo",
-            "jar": "https://ncstatic.clewm.net/rsrc/2025/0821/23/753d376ab89b34e2bf78761f5fe0289a.png;md5;526453EBC8F8F6C30FB2AEC9252DCED0",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "南风短剧",
-            "name": "☢️┃南风┃短剧",
-            "type": 3,
-            "api": "csp_Nfdj",
-            "jar": "https://ncstatic.clewm.net/rsrc/2025/0821/23/753d376ab89b34e2bf78761f5fe0289a.png;md5;526453EBC8F8F6C30FB2AEC9252DCED0",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "timeout": 10
-        },        
-        {
             "key": "河马短剧",
             "name": "🦛┃河马┃短剧",
             "type": 3,
             "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "偷乐短剧",
-            "name": "☺️┃偷乐┃短剧",
-            "type": 3,
-            "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
