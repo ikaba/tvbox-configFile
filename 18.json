@@ -48,7 +48,7 @@
 {"key": "csp_Netflav", "name": "Netflav", "type": 3, "api": "csp_Netflav", "jar": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/netflav.jar", "ext": "noproxy", "searchable": 1, "quickSearch": 1, "changeable": 1, "filterable": 0, "timeout": 60},
     {"key": "AV-色南国","name": "AV-色南国","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api.sexnguon.com"}, 
        
-    {"key": "TV-旺旺短剧","name": "TV-旺旺短剧","type": 1,"api": "https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://wwzy.tv"},
+    {"key": "TV-旺旺短剧","name": "TV-旺旺短剧","type": 1,"api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://wwzy.tv"},
     {"key": "旺旺短剧2","name": "TV-旺旺短剧2","type": 0,"api": "https://api.wwzy.tv/api.php/provide/vod/at/xml/?ac=list","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://wwzy.tv"},
     
     {"key": "gdlsp.com", "name": "AV-香奶儿资源2", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "recordable": 0, "style": {"type": "rect", "ratio": 1.33}},
