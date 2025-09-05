@@ -48,10 +48,7 @@
 {"key": "csp_Netflav", "name": "Netflav", "type": 3, "api": "csp_Netflav", "jar": "https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/netflav.jar", "ext": "noproxy", "searchable": 1, "quickSearch": 1, "changeable": 1, "filterable": 0, "timeout": 60},
     {"key": "AV-色南国","name": "AV-色南国","type": 1,"api": "https://api.sexnguon.com/api.php/provide/vod","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://api.sexnguon.com"}, 
        
-    {"key": "TV-旺旺短剧","name": "TV-旺旺短剧","type": 1,"api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://wwzy.tv",
-      "categories": [
-        "都市", "赘婿", "战神", "古代言情", "现代言情", "历史", "脑洞", "玄幻", "电视节目", "搞笑", "网剧", "喜剧", "萌宝", "神豪", "致富", "奇幻脑洞", "超能", "强者回归", "甜宠", "励志", "豪门恩怨", "复仇", "长生", "神医", "马甲", "亲情", "小人物", "奇幻", "无敌", "现实", "重生", "闪婚", "职场商战", "穿越", "年代", "权谋", "高手下山", "悬疑", "家国情仇", "虐恋", "古装", "时空之旅", "玄幻仙侠", "欢喜冤家", "传承觉醒", "情感", "逆袭", "家庭"
-      ]},
+    {"key": "TV-旺旺短剧","name": "TV-旺旺短剧","type": 1,"api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"classes":[{"type_name":"短剧","type_id":"短剧"}]}},
     {"key": "旺旺短剧2","name": "TV-旺旺短剧2","type": 0,"api": "https://api.wwzy.tv/api.php/provide/vod/at/xml/?ac=list","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://wwzy.tv"},
     
     {"key": "gdlsp.com", "name": "AV-香奶儿资源2", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "recordable": 0, "style": {"type": "rect", "ratio": 1.33}},
