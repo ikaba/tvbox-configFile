@@ -73,7 +73,7 @@
   },
   {
     "key": "py_河马短剧",
-    "name": "短剧狗",
+    "name": "河马短剧",
     "type": 3,
     "api": "https://raw.githubusercontent.com/fishforks/py_spider/refs/heads/main/PyramidStore/plugin/custom/py_河马短剧.py",
     "searchable": 1,
