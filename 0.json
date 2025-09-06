@@ -8,7 +8,7 @@
 
 {"key": "柠檬", "name": "多多┃🍋‍┃柠檬┃秒播", "type": 3, "api": "csp_Nmvod", "playerType": 2, "jar": "./3.png;md5;939FFBC2941A28CA533F2653FA4B449E", "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
 {"key": "热播", "name": "多多┃🐠┃热播┃秒播", "type": 3, "api": "csp_TianTian", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://v.rbotv.cn"},
-{"key": "敲击二", "name": "多多┃🐸┃奇迹┃秒播", "type": 3, "api": "csp_qiao2", "playerType": 2, "jar": "./3.png;md5;939FFBC2941A28CA533F2653FA4B449E", "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
+{"key": "巧技二", "name": "多多┃🐸┃奇迹┃秒播", "type": 3, "api": "csp_qiao2", "playerType": 2, "jar": "./3.png;md5;939FFBC2941A28CA533F2653FA4B449E", "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
 {"key": "追剧", "name": "多多┃☕️┃追剧┃秒播", "type": 3, "api": "csp_TianTian", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://v.lkuys.cn"},
 {"key": "云云", "name": "多多┃🥮┃云云┃超清", "type": 3, "api": "csp_Qiji", "playerType": 2, "jar": "./3.png;md5;939FFBC2941A28CA533F2653FA4B449E", "ext": "7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"},
 {"key": "农民", "name": "多多┃👶┃旺旺┃影视", "type": 3, "api": "csp_NongMin", "searchable": 1, "quickSearch": 1, "filterable": 1},
