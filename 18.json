@@ -90,7 +90,9 @@
 {"key": "TV-魔都动漫", "name": "TV-魔都动漫", "type": 1, "api": "https://caiji.moduapi.cc/api.php/provide/vod", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://caiji.moduapi.cc"},
 {"key": "TV-魔都资源", "name": "TV-魔都资源", "type": 1, "api": "https://www.mdzyapi.com/api.php/provide/vod", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.mdzyapi.com"},
 {"key": "TV-黑木耳", "name": "TV-黑木耳", "type": 1, "api": "https://json.heimuer.xyz/api.php/provide/vod", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://json.heimuer.xyz"},
-{"key": "TV-黑木耳点播", "name": "TV-黑木耳点播", "type": 1, "api": "https://json02.heimuer.xyz/api.php/provide/vod", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://json02.heimuer.xyz"},
+{"key": "TV-黑木耳点播", "name": "TV-黑木耳点播", "type": 1, "api": "https://json02.heimuer.xyz/api.php/provide/vod", "playerType": 2, "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://json02.heimuer.xyz"},      
+{"key": "黑木影视", "name": "💖分享黑木耳", "type": 1, "api": "https://heimuer.ggff.net/api.php/tvbox", "searchable": 1, "quickSearch": 1, "filterable": 1},
+
 {"key": "---------", "name": "以下测试", "type": 3, "api": "./py", "searchable": 1, "quickSearch": 1, "filterable": 1},
 {"key": "fxz小猫咪", "name": "💖分享猫咪", "type": 1, "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/"},       
         {"key": "🚨蛋蛋赞影视", "name": "💖分享蛋蛋", "type": 3, "api": "https://www.xn--rgv465a.top/box/js/drpy2.min.js", "ext": "https://www.xn--rgv465a.top/box/js/蛋蛋赞.js"},
