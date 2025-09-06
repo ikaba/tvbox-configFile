@@ -6,7 +6,6 @@
     "sites": [
         {"key": "多多┃豆瓣", "name": "🟩多多┃豆瓣", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./douban.json"},
 {"key": "星芽短剧", "name": "星芽｜短剧", "type": 3, "api": "csp_AppXY", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a5fc65006d0ab456/pizazz.png;md5;ebb8499b9b97a48cae594ba75d6f2d5e", "searchable": 1, "quickSearch": 0, "filterable": 0},
-{"key": "星芽", "name": "🌟┃星芽┃短剧", "type": 3, "api": "csp_Xydj","playerType": 2,  "searchable": 1, "quickSearch": 1, "changeable": 0},
 {"key": "柠檬", "name": "多多┃🍋‍┃柠檬┃秒播", "type": 3, "api": "csp_Nmvod", "playerType": 2, "jar": "./3.png;md5;939FFBC2941A28CA533F2653FA4B449E", "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
 {"key": "热播", "name": "多多┃🐠┃热播┃秒播", "type": 3, "api": "csp_TianTian", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://v.rbotv.cn"},
 {"key": "敲击二", "name": "多多┃🐸┃奇迹┃秒播", "type": 3, "api": "csp_qiao2", "playerType": 2, "jar": "./3.png;md5;939FFBC2941A28CA533F2653FA4B449E", "ext": "7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
@@ -299,7 +298,7 @@
 {"key":"xbpq_djwu","name": "短剧2 ┃ ❤️短剧屋❤️_XBPQ","type":3,"api":"csp_XBPQ","jar":"http://74.120.175.78/JK/XYQTVBox/YSC.jar","searchable":0,"quickSearch":0,"filterable":1,"ext":"http://74.120.175.78/JK/XYQTVBox/json/短剧屋.json"},
 {"key":"xbpq_djw","name": "短剧2 ┃ ❤️短剧网❤️_XBPQ","type":3,"api":"csp_XBPQ","jar":"http://74.120.175.78/JK/XYQTVBox/YSC.jar","ext":"http://74.120.175.78/JK/XYQTVBox/json/短剧网.json"},
 {"key":"夜猫短剧","name": "短剧2 ┃ 小苹果不支持Python源","type":3,"api":"csp_YMduanju","jar":"http://74.120.175.78/JK/XYQTVBox/ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"星芽短剧","name": "短剧2 ┃ ❤️星芽短剧🍡_APP","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"http://74.120.175.78/JK/XYQTVBox/spider0529.jar"},
+{"key":"短剧2星芽短剧","name": "短剧2 ┃ ❤️星芽短剧🍡_APP","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"http://74.120.175.78/JK/XYQTVBox/spider0529.jar"},
 {"key":"cj_旺旺1","name": "短剧2 ┃ ❤️旺旺短剧❤️_采集","type":1,"api":"https://ww.tyyszy5.com/api.php/provide/vod/?ac=lis","playerType":1,"searchable":1,"changeable":1,"categories":["短剧"]},
 {"key":"--------3-","name": "--短剧3-"}, 
 {
