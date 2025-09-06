@@ -21,7 +21,15 @@
 {"name": "饭太硬", "url": "http://www.饭太硬.com/tv"},
 {"name": "余生", "url": "https://ysys.lic10.cn/ys/"},
 {"name": "采集之王", "url": "https://cns.菜妮丝.top/https://raw.githubusercontent.com/jiushizhe/daozhang/main/drpy_dzlive6.21/index.json"},
-{"name": "少儿频道", "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"}
+{"name": "少儿频道", "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"},
+{"name": "儿童专属", "url": "https://www.iyouhun.com/tv/et"},
 
+
+{"name": "短剧1", "url": "https://www.iyouhun.com/tv/dj"},
+{"name": "短剧2", "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"},
+{"name": "短剧3", "url": "https://www.iyouhun.com/tv/djpd"}
     ]    
 }
+
+
+
