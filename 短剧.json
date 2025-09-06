@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
+"spider":"./fix250711.jar;md5;54418536dc2a40da4e94437397895d01", 
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[
    
@@ -8,7 +8,65 @@
 "sites":[    
     {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
     
-    {"key":"偷乐短剧","name":"☺️┃偷乐┃短剧","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2}
+    {"key":"偷乐短剧","name":"☺️┃偷乐┃短剧","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2}, 
+    
+    {
+    "key": "py_51吸瓜",
+    "name": "51吸瓜",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/meinvtuzai/PyramidStore-18/refs/heads/main/plugin/adult/51%E5%90%B8%E7%93%9C.py",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0
+  },
+    {
+    "key": "py_蓝莓短剧",
+    "name": "蓝莓短剧",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/fishforks/py_spider/refs/heads/main/PyramidStore/plugin/custom/py_蓝莓短剧.py",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0
+  },
+    {
+    "key": "ppy_偷乐短剧",
+    "name": "偷乐短剧",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/fishforks/py_spider/refs/heads/main/PyramidStore/plugin/custom/py_偷乐短剧.py",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0
+  },
+  
+    {
+    "key": "py_4kvm.py",
+    "name": "py_4kvm",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/fishforks/py_spider/refs/heads/main/PyramidStore/plugin/custom/py_py_4kvm.py",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0
+  },
+  {
+    "key": "py_短剧狗",
+    "name": "短剧狗",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/fishforks/py_spider/refs/heads/main/PyramidStore/plugin/custom/py_短剧狗.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  },
+  {
+    "key": "py_河马短剧",
+    "name": "河马短剧",
+    "type": 3,
+    "api": "https://raw.githubusercontent.com/fishforks/py_spider/refs/heads/main/PyramidStore/plugin/custom/py_河马短剧.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable": 0
+  }
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
