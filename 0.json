@@ -1,11 +1,11 @@
 {
-    "spider": "./duo.png;md5;526453EBC8F8F6C30FB2AEC9252DCED0",
+    "spider":"https://ncstatic.clewm.net/rsrc/2025/0821/23/753d376ab89b34e2bf78761f5fe0289a.png;md5;526453EBC8F8F6C30FB2AEC9252DCED0",
     "wallpaper": "https://yydsys.top/bg.php",
     "logo": "./%E9%A3%8E%E8%BD%A6new.gif",
     "warningText": "切勿相信视频中的一切广告",
     "sites": [
         {
-            "key": "豆瓣",
+            "key": "多多┃豆瓣",
             "name": "豆瓣",
             "type": 3,
             "api": "csp_Douban",
@@ -184,28 +184,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "timeout": 60
-        },
-        {
-            "key": "星芽",
-            "name": "🌟┃星芽┃短剧",
-            "type": 3,
-            "api": "csp_Xydj",
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "红果",
-            "name": "🍎┃红果┃短剧",
-            "type": 3,
-            "api": "csp_HongGuo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
         },
         {
             "key": "FirstAid",
@@ -586,41 +564,48 @@
             "filterable": 1,
             "ext": "https://yydsys.top/duo/lib/jzyy.js"
         },
+        {"key":"潮流","name":"肥猫┃🏜┃潮流┃APP","type":3,"api":"csp_AppRJ","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":"http://v.rbotv.cn"},
+{"key":"梦回","name":"肥猫┃🏈┃梦回┃APP","type":3,"api":"csp_AppRJ","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":"http://v.lkuys.cn"},
+{"key":"星辉","name":"肥猫┃🦢┃星辉┃APP","type":3,"api":"csp_AppRJ","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":"http://tt.ysdqjs.cn"},
+{"key":"肥猫","name":"肥猫┃🐼┃肥猫┃APP","type":3,"api":"csp_AppGet","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":{"url":"https://mac.555618.xyz","dataKey":"#getapp@TMD@2025","siteApi":"get","version":"201"}},
+{"key":"行动","name":"肥猫┃😌┃行动┃APP","type":3,"api":"csp_AppGet","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":{"url":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt","dataKey":"dksvndkaAjekakcE","siteApi":"qiji","version":""}},
+{"key":"仓鼠","name":"肥猫┃🐹┃耗子┃APP","type":3,"api":"csp_AppGet","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":{"url":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","dataKey":"ca94b06ca359d80e","siteApi":"qiji","version":""}},
+{"key":"蔬菜","name":"肥猫┃🫛┃蔬菜┃APP","type":3,"api":"csp_AppGet","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":{"url":"http://huohu.yihn.cc","dataKey":"huohushipingetap","siteApi":"get","version":"140"}},
+{"key":"优优","name":"肥猫┃💯┃优优┃APP","type":3,"api":"csp_AppGet","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":{"url":"https://apiapplbys.lbys.app:5678","dataKey":"apiapplbyskey168","siteApi":"get","version":"107"}},
+{"key":"永永","name":"肥猫┃♾️┃永永┃APP","type":3,"api":"csp_AppGet","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":{"url":"https://www.guangyingmi.com","dataKey":"230fnsodfsdhfon2","siteApi":"get","version":""}},
+{"key":"csp_Xlys","name":"肥猫┃🏔️┃修罗┃磁力","type":3,"api":"csp_Xlys","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","ext":"https://xl01.com.de"},
+{"key":"csp_Qiyou","name":"肥猫┃🥝┃奇优┃影视","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","api":"csp_Qiyou"},
+{"key":"荐片","name":"肥猫┃🎬┃荐片┃影视","api":"csp_Jianpian","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","type":3,"playerType":"2","ext":"https://ka1dfj.slsw6.com"},
+{"key":"csp_SaoHuo","name":"肥猫┃🔥┃火火┃影视","type":3,"api":"csp_SaoHuo","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","playerType":2,"ext":"https://shdy5.us"},
+{"key":"csp_Gz360","name":"肥猫┃🍉┃瓜子┃影视","type":3,"api":"csp_Gz360","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","playerType":2},
+{"key":"csp_LiteApple","name":"肥猫┃🍎┃苹果┃影视","type":3,"api":"csp_LiteApple","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","searchable":1,"quickSearch":1,"filterable":1},
         {
-            "key": "樱花动漫",
-            "name": "🌺┃樱花┃动漫",
+            "key": "星芽",
+            "name": "🌟┃星芽┃短剧",
             "type": 3,
-            "api": "csp_Yhdm",
+            "api": "csp_Xydj",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "changeable": 0
         },
         {
-            "key": "奇米动漫",
-            "name": "🍿┃奇米┃动漫",
+            "key": "红果",
+            "name": "🍎┃红果┃短剧",
             "type": 3,
-            "api": "https://yydsys.top/duo/js/drpy2.min.js",
+            "api": "csp_HongGuo",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://yydsys.top/duo/lib/qmdm.js"
+            "changeable": 0
         },
-        {
-            "key": "巴士",
-            "name": "🚌┃巴士┃动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "异界动漫",
-            "name": "👻┃异界┃动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "changeable": 1
-        }
+{"key":"csp_AppXY","name":"肥猫┃🎀️┃星牙┃短剧","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","api":"csp_AppXY"},
+{"key":"河马短剧","name":"肥猫┃🦛┃河马┃短剧","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"偷乐短剧","name":"肥猫┃☺️┃偷乐┃短剧","type":3,"api":"https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"csp_SP360","name":"肥猫┃📺┃360┃官源","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","api":"csp_SP360"},
+{"key":"酷狗","name":"肥猫┃🐾┃酷狗┃音乐","type":3,"api":"csp_Kugou","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/7ca5b8d36db73989/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}}
     ],
     "parses": [
         {
