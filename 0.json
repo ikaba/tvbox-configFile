@@ -145,6 +145,14 @@
             "ua": "okHttp/Mod-1.2.0.1"
         },
         {
+            "name": "AI直播2",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/iptv.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.2.0.1"
+        },
+        {
             "name": "电视Live",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
@@ -153,6 +161,7 @@
             "ua": "okhttp/3.15",
             "timeout": 10
         }, 
+        
 {"name": "港澳台", "type": 0, "url": "http://txt.kesug.com/users/hulanlu.txt", "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "裤佬直播", "type": 0, "url": "https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1", "playerType": 2, "timeout": 10},
 {"name": "宝盒专享", "type": 0, "url": "https://3043.kstore.space/bhvip/bh/bhzb2.txt", "ua": "catvod", "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}", "playerType": 1, "timeout": 10}
