@@ -142,20 +142,7 @@
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.2.0.1"
-        },
-        {
-            "name": "电视Live",
-            "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
-            "jar":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/s9doPjDk.png;md5;e394344cf08073fb7e0d5d2338258cda",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "timeout": 10
-        }, 
-{"name": "宝盒专享", "type": 0, "url": "https://3043.kstore.space/bhvip/bh/bhzb2.txt", "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}", "playerType": 1, "ua": "catvod", "timeout": 10}, 
-        
-{"name": "港澳台", "type": 0, "url": "http://txt.kesug.com/users/hulanlu.txt", "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png", "playerType": 2, "ua": "okhttp/3.15","timeout": 10},
-{"name": "裤佬直播", "type": 0, "url": "https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1", "playerType": 2, "ua": "okhttp/3.15","timeout": 10}
+        }
 
     ]
 }
