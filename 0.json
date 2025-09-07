@@ -132,22 +132,30 @@
     ],
     
     "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd","mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
+    
     "lives": [        
-{"name": "Best", "type": 0, "url": "http://be.is-best.net/i/8/5611948.txt", "epg": "http://epg.51zmt.top:8000/e.xml", "logo": "https://epg.112114.xyz/logo/{name}.png", "timeout": 10},
-{"name": "Guovin", "type": 0, "url": "https://hub.gitmirror.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u", "epg": "http://epg.51zmt.top:8000/e.xml", "logo": "https://epg.112114.xyz/logo/{name}.png", "timeout": 10},
-{"name": "Mursor", "type": 0, "url": "https://sub.ottiptv.cc/iptv.m3u", "epg": "http://epg.51zmt.top:8000/e.xml", "ua": "okHttp/Mod-1.2.0", "timeout": 10, "playerType": 2},
+
+{
+            "name": "AI直播",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/iptv.m3u",
+            "jar":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/s9doPjDk.png;md5;e394344cf08073fb7e0d5d2338258cda",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.2.0.1"
+        },
+        {
+            "name": "电视Live",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&u=Gather",
+            "jar":"https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/s9doPjDk.png;md5;e394344cf08073fb7e0d5d2338258cda",
+            "playerType": 2,
+            "ua": "okhttp/3.15",
+            "timeout": 10
+        }, 
 {"name": "港澳台", "type": 0, "url": "http://txt.kesug.com/users/hulanlu.txt", "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "sd-live", "type": 0, "url": "https://gitee.com/sd-live/zb/raw/master/mySJ", "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name": "裤佬直播", "type": 0, "url": "https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1", "playerType": 2, "timeout": 10},
-{"name": "范明明", "type": 0, "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u", "playerType": 2, "timeout": 10},
-{"name": "ZBDS", "type": 0, "url": "https://live.zbds.org/tv/iptv4.txt", "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", "logo": "https://epg.iill.top/logo/{name}.png", "timeout": 10, "playerType": 2},
-{"name": "宝盒专享", "type": 0, "url": "https://3043.kstore.space/bhvip/bh/bhzb2.txt", "ua": "catvod", "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}", "playerType": 1, "timeout": 10},
-{"name": "live", "type": 0, "url": "https://6296.kstore.vip/25.txt", "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "playerType": 2, "logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "福建 联通 酒店源", "type": 0, "url": "https://taoiptv.com/lives/35014.m3u?token=79b56f7047c4f084", "playerType": 2},
-{"name": "宁夏 电信 组播源", "type": 0, "url": "https://taoiptv.com/lives/64023.m3u?token=79b56f7047c4f084", "playerType": 2},
-{"name": "陕西 电信 酒店源", "type": 0, "url": "https://taoiptv.com/lives/61013.m3u?token=79b56f7047c4f084", "playerType": 2},
-{"name": "YanG•综合", "type": 0, "url": "https://tv.iill.top/m3u/Gather", "ua": "okhttp/3.15", "playerType": 2, "epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
-{"name": "Ray•综合", "type": 0, "url": "https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt", "playerType": 2, "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"},
-{"name": "俊于•综合", "type": 0, "url": "http://home.jundie.top:81/Cat/tv/live.txt", "playerType": 2, "epg": "http://epg.112114.xyz/?ch={name}&date={date}", "logo": "https://epg.112114.xyz/logo/{name}.png"}        
+{"name": "宝盒专享", "type": 0, "url": "https://3043.kstore.space/bhvip/bh/bhzb2.txt", "ua": "catvod", "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}", "playerType": 1, "timeout": 10}
+
     ]
 }
