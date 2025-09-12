@@ -3,8 +3,8 @@
 "spider":"https://www.lequxiang.com.cn/down.php/36456a794b9f6d670931667d79bf8e9c.txt;md5;36456a794b9f6d670931667d79bf8e9c",
 "wallpaper":"http://bobohome.ignorelist.com:20247/bing","logo":"http://127.0.0.1:9978/file/TVBox/logo.png",
 "sites":[
-{"key":"豆瓣","name":"潇洒test","type":3,"api":"csp_Douban","searchable":0},
-{"key": "豆瓣", "name": "多多┃豆瓣|TEST", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./douban.json"},	
+{"key":"潇洒豆瓣","name":"潇洒豆瓣test","type":3,"api":"csp_Douban","searchable":0},
+{"key": "多多豆瓣", "name": "多多┃豆瓣|TEST", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./douban.json"},	
 {"key":"热播影视","name":"热播｜APP","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
 {"key":"天天影视","name":"天天｜APP","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"}},
 {"key":"浪酷影视","name":"浪酷｜APP","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.lkuys.cn"}},
