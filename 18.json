@@ -1,9 +1,9 @@
-
 {
-"spider":"https://www.lequxiang.com.cn/down.php/36456a794b9f6d670931667d79bf8e9c.txt;md5;36456a794b9f6d670931667d79bf8e9c",
+"spider":"https://www.lequxiang.com.cn/down.php/7ffef3e5e7ecb6562f58d34dcca2077a.txt;md5;7ffef3e5e7ecb6562f58d34dcca2077a",
 "wallpaper":"http://bobohome.ignorelist.com:20247/bing","logo":"http://127.0.0.1:9978/file/TVBox/logo.png",
 "sites":[
-{"key":"潇洒豆瓣","name":"潇洒豆瓣","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣","name":"豆瓣｜首页","type":3,"api":"csp_Douban","searchable":0},
+{"key":"配置中心","name":"配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.597}},
 {"key": "多多豆瓣", "name": "多多┃豆瓣|TEST", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./douban.json"},	
 {"key":"豆丁","name":"豆丁丨APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"http://45.66.157.77:9427/dd.txt","dataKey":"Xasdasd!123123dd","dataIv":"Xasdasd!123123dd","deviceId":"","version":"","ua":""}},
 {"key":"热播影视","name":"热播｜APP","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
