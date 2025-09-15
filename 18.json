@@ -127,7 +127,7 @@
 {"key": "星芽短剧", "name": "星芽｜短剧", "type": 3, "api": "csp_AppXY", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/a5fc65006d0ab456/pizazz.png;md5;ebb8499b9b97a48cae594ba75d6f2d5e", "searchable": 1, "quickSearch": 0, "filterable": 0},
 {"key": "甜圈短剧", "name": "甜圈｜短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TQDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1},
 {"key": "河马短剧", "name": "河马┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
-{"key": "河马短剧2", "name": "河马┃短剧|自定义", "type": 3, "api": "https://github.com/myhomebox/tv/blob/d3ebc87719cc60155b0b74ca5673bbd05e18fe61/Plugin/py_hmdj.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
+{"key": "河马短剧2", "name": "河马┃短剧|自定义", "type": 3, "api": "./HMDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
 {"key": "锦鲤短剧1", "name": "锦鲤┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JLDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
 {"key": "偷乐短剧", "name": "偷乐┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
 {"key": "红果", "name": "🍎┃红果┃短剧", "type": 3, "api": "csp_HongGuo", "searchable": 1, "quickSearch": 1, "changeable": 0},
