@@ -129,6 +129,7 @@
 {"key": "河马短剧", "name": "河马┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
 {"key": "河马短剧2", "name": "河马┃短剧|自定义", "type": 3, "api": "./HMDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
 {"key": "javxx", "name": "javxx", "type": 3, "api": "./javxx.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
+{"key": "javxx2", "name": "javxx2", "type": 3, "api": "./javxx2.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
 {"key": "锦鲤短剧1", "name": "锦鲤┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/JLDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
 {"key": "偷乐短剧", "name": "偷乐┃短剧", "type": 3, "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/TLDJ.py", "searchable": 1, "changeable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2},
 {"key": "红果", "name": "🍎┃红果┃短剧", "type": 3, "api": "csp_HongGuo", "searchable": 1, "quickSearch": 1, "changeable": 0},
