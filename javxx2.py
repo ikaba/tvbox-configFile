@@ -17,11 +17,11 @@ except ImportError:
 
 class Spider(Spider):
     def __init__(self):
-        self.siteUrl = "https://www.kuaikaw.cn"
+        self.siteUrl = "https://www.javxx.com/cn"
         self.cateManual = {
-            "喜剧": "917",
-            "古装仙侠": "1102",
-            "奇幻脑洞": "921",
+            "有码": "censored",
+            "无码": "uncensored",
+            "无码泄漏": "uncensored-leaked",
             "青春": "1170",
             "古装": "444",
             "沙雕漫": "1647-1651",
@@ -39,7 +39,7 @@ class Spider(Spider):
         }
         
     def getName(self):
-        return "河马短剧"
+        return "javxx"
     
     def init(self, extend=""):
         return
@@ -135,6 +135,8 @@ class Spider(Spider):
     def categoryContent(self, tid, pg, filter, extend):
         result = {'list': [], 'page': pg, 'pagecount': 1, 'limit': 20, 'total': 0}
         url = f"{self.siteUrl}/browse/{tid}/{pg}"
+        
+        https://javxx.com/cn/uncensored-leaked?page=2
         
         response = self.fetch(url)
         if not response:
