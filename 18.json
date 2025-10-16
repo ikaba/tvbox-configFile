@@ -4,7 +4,7 @@
     "logo": "./%E9%A3%8E%E8%BD%A6new.gif",
     "warningText": "切勿相信视频中的一切广告",
 "sites":[
-{"key":"豆瓣","name":"🍥┃豆瓣｜首页18","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣","name":"豆瓣┃18","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
 {"key":"豆11","name":"🍥┃豆瓣｜首页18","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"https://yydsys.top/duo/json/douban.json"},
 {"key":"配置中心","name":"配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.597}},
 {"key": "多多豆瓣", "name": "多多┃豆瓣|TEST", "type": 3, "api": "csp_Douban", "searchable": 0, "changeable": 1, "ext": "./douban.json"},	
